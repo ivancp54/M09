@@ -1,0 +1,113 @@
+header {
+    border: 1px solid gray;
+}
+
+.head {
+    border: 1px solid gray;
+    width: auto;
+    margin: 10px;
+    text-align: center;
+}
+
+section.caja{
+    padding: 10px;
+    border: 1px solid blue;
+    width: auto;
+    display:flex;
+    margin-left: 25%;
+    margin-right: 25%;
+    
+}
+
+nav.menus{
+    border: 1px solid greenyellow;
+    width: 50%;
+    color: black;
+    padding: 10px;
+}
+
+.menu{
+    margin-top: 20px;
+    border: 1px solid brown;
+}
+
+main{
+    align-content: center;
+    border: 1px solid red;
+}
+
+.centro{
+    border: 1px solid blue;
+}
+
+.imgcentro{
+    margin: 10px;
+    border: 1px solid grey;
+    height: auto;
+    width: auto;
+}
+
+article{
+    text-align: center;
+}
+
+.articulos{
+    display: flex;
+    justify-content: center;
+    border: 1px solid cyan;
+    margin: 20px;
+}
+
+.articulo{
+    border: 1px solid magenta;
+    margin: 10px;
+
+}
+
+.tarticle {
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.darticle {
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.titulo{
+    border: 1px solid gray;
+    margin: 20px;
+}
+
+h1.titulo{
+    color: aquamarine;
+
+}
+
+div.article{
+    margin: 10px;
+    border: 1px solid magenta;
+    width: auto;
+}
+div.image{
+    width: 100%;
+    height: 100%;
+}
+
+img.abajo{
+    width: 100%;
+}
+
+footer{
+    display: flex;
+    background-color: grey;
+    padding: 20px;
+    text-align: right;
+
+}
+
+div.footer{
+    width: 100%;
+    border: 1px solid black;
+}
+
